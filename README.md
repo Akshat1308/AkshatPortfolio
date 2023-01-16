@@ -1,3 +1,3 @@
-# task_Shristi-s_portfolio
+# task_Akshat_portfolio
 
-link: https://shristi216.github.io/task_Shristi-s_portfolio/
+link: https://akshat1308.github.io/AkshatPortfolio/
